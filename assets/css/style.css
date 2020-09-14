@@ -1012,6 +1012,9 @@ section {
 
 #footer {
   text-align: center;
+  background: linear-gradient(90deg,#ff8a00,#e52e71);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 #footer .credits {
